@@ -2,3 +2,5 @@
 *.exe
 *.lib
 *.log
+TP1TomásMugetti-TurnoTarde\Release
+TP1TomásMugetti-TurnoTarde\Debug
